@@ -2,26 +2,23 @@
 
 #EXTM3U
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,The Best Of Greek Music 2017 | Greek Dance Music 2017 | Ελληνικής Μουσικής
+plugin://plugin.video.youtube/?action=play_video&videoid=68muc5ipqi8
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Heaven 2017 (Official Audio Video HQ)
+plugin://plugin.video.youtube/?action=play_video&videoid=6pfaiVqOXQE
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Non Stop Mix Vol.12 By Nikos Halkousis - Full Album (Official Audio Video HQ)
+plugin://plugin.video.youtube/?action=play_video&videoid=mUYShyxOU8o
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Greek mix 2017 - Ola ellinika mix 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=SV8rsL4beSM
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Greek Mix 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=b1v8QOQ3uN0
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1, '90s(Διασκευες) & Greek Songs MiX (2017)
+plugin://plugin.video.youtube/?action=play_video&videoid=T_wXc5gskeU
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Greek Mix ~ Ελληνικά Μιξ ~ 2017
+plugin://plugin.video.youtube/?action=play_video&videoid=eQpZUquFuzs
