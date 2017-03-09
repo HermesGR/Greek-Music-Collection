@@ -20,6 +20,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=b1v8QOQ3uN0
 #EXTINF:1, '90s(Διασκευες) & Greek Songs MiX (2017)
 plugin://plugin.video.youtube/?action=play_video&videoid=T_wXc5gskeU
 
+#EXTINF:1,ΕΛΛΗΝΙΚΟ ΠΟΠ ΡΟΚ 80'S -90'S
+plugin://plugin.video.youtube/?action=play_video&videoid=I821b7Qz2e0
+
 #EXTINF:1,Greek Mix ~ Ελληνικά Μιξ ~ 2017
 plugin://plugin.video.youtube/?action=play_video&videoid=eQpZUquFuzs
 
