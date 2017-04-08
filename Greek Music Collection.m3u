@@ -17,6 +17,24 @@ plugin://plugin.video.youtube/?action=play_video&videoid=SV8rsL4beSM
 #EXTINF:1,Greek Mix 2017
 plugin://plugin.video.youtube/?action=play_video&videoid=b1v8QOQ3uN0
 
+#EXTINF:1, Έντεχνη Μουσική Απόλαυση
+plugin://plugin.video.youtube/?action=play_video&videoid=jnFucgl2fdg
+
+#EXTINF:1, Έντεχνα Ελληνικά Τραγούδια
+plugin://plugin.video.youtube/?action=play_video&videoid=k5Kr2dS20Wc
+
+#EXTINF:1, Έντεχνα & Λαϊκά - Τα Τραγούδια Που Αγαπάμε (1)
+plugin://plugin.video.youtube/?action=play_video&videoid=eD2kP1hipmo
+
+#EXTINF:1, Έντεχνα & Λαϊκά - Τα Τραγούδια Που Αγαπάμε (2)
+plugin://plugin.video.youtube/?action=play_video&videoid=1ycBaQA77go
+
+#EXTINF:1, Παλιές Ελληνικές Επιτυχίες (1)
+plugin://plugin.video.youtube/?action=play_video&videoid=bAN-Kd-W01c
+
+#EXTINF:1, Παλιές Ελληνικές Επιτυχίες (2)
+plugin://plugin.video.youtube/?action=play_video&videoid=ZtPpVbgcUQg
+
 #EXTINF:1, '90s(Διασκευες) & Greek Songs MiX (2017)
 plugin://plugin.video.youtube/?action=play_video&videoid=T_wXc5gskeU
 
